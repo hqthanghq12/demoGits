@@ -6,3 +6,4 @@ echo "Thay đổi code C1";
 echo "Thay đổi code C2";
 echo "Thay đổi code C3";
 echo "Thay đổi code mới nhất lần 4";
+echo "Thay đổi code C4 test";
